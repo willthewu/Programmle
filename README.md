@@ -10,7 +10,7 @@ The mystery list can have integers, booleans, None, strings, and MORE lists!!! L
 Guessing the list:
 After every guess, you will see a check list which shows how your list chan be changed into the mystery list. One of four things can happen in each element of your guess:
 1) You got the correct thing in the correct spot in your list!
-2) You got the correct type in the correct spot of your list, but the value isn't correct.
+2) You got the correct type in the correct spot of your list, but the value isn't correct. You'll get an additional hint to help you get the correct value!
 3) You got an incorrect type in a specific spot of your list, BUT you can find your guessed type somewhere else in the mystery list.
 4) Everything about the entry is wrong :( the type you specified doesn't appear anywhere else in the list.
 
