@@ -12,7 +12,7 @@ After every guess, you will see a check list which shows how your list chan be c
 1) You got the correct thing in the correct spot in your list!
 2) You got the correct type in the correct spot of your list, but the value isn't correct. You'll get an additional hint to help you get the correct value!
 3) You got an incorrect type in a specific spot of your list, BUT you can find your guessed type somewhere else in the mystery list.
-4) Everything about the entry is wrong :( the type you specified doesn't appear anywhere else in the list.
+4) Everything about the entry is wrong :( the type you specified doesn't appear anywhere in the list.
 
 Once you guessed the mystery list:
 YAY! You're done! You will be able to see how many tries it took you. You can play again and maybe give yourself an even bigger challenge with a larger mystery list!
